@@ -1,2 +1,2 @@
 # Drawing
-Repository untuk menyimpan cara menggambar 
+Repository untuk menyimpan cara menggambar secara tradisional
